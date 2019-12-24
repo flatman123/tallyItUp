@@ -1,0 +1,2 @@
+# tallyItUp
+An automatic counter
